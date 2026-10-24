@@ -72,4 +72,4 @@ We recommend that our proposed treatment be tested in mouse and *C. elegans* wor
 
 ---
 
-**Team:** Kristie Benel, Elise Carpenter, Ruth Fan, Nicolás Solano
+
